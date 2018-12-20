@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/BT10_3.dir/main.c.o  -o BT10_3 
