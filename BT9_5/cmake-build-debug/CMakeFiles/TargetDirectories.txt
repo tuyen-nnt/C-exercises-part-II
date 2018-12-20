@@ -1,0 +1,3 @@
+/home/thanhtuyen/C-exercises/bai_9/BT9_5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/thanhtuyen/C-exercises/bai_9/BT9_5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/thanhtuyen/C-exercises/bai_9/BT9_5/cmake-build-debug/CMakeFiles/BT9_5.dir
